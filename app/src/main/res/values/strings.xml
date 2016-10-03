@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Show Time</string>
+    <string name="section_movies">Popular Movies</string>
+    <string name="section_tv">Popular Tv</string>
+    <string name="configuration_failure">Network failure, cannot continue further</string>
+    <string name="activity_detail_popularity">Popularity:</string>
+    <string name="transition_item_to_detail">Item going to detail screen</string>
+</resources>

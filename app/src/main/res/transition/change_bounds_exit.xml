@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+    android:transitionOrdering="sequential" >
+
+    <changeImageTransform
+        android:duration="@integer/anim_duration"
+        android:interpolator="@android:interpolator/accelerate_decelerate"/>
+
+</transitionSet>
+
+
